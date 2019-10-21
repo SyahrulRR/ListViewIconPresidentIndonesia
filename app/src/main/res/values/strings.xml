@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewPresidentIndonesia</string>
+    <string name="detail">Detail</string>
+    <string name="president_name">president_name</string>
+</resources>
